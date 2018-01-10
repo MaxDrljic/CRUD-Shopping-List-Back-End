@@ -10,6 +10,6 @@ SETUP :
 
 4. Be sure to run MongoDB in the background. If you don't have MongoDB installed, check their official website on how to do it properly.
 
-5. Hit `npm start`
+5. Hit `npm start`.
 
 Enjoy!
